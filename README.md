@@ -1,6 +1,7 @@
 👋 Hello, I'm Elizanel! 
 
 🎓 MSCS Student @ Georgia Tech | Human-Computer Interaction
+
 💻 Aspiring Software Engineer | HCI Enthusiast
 
 📚 About Me: 
