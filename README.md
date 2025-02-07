@@ -20,6 +20,5 @@ Languages: Python, JavaScript (beginner)
 Tools & Frameworks: React, Figma, Git, HTML/CSS
 Other Interests: UX Research, Prototyping, AI for Accessibility
 
-🌎 Elizanel.com
 
-Let's build something amazing together! 🚀
+Let's build something amazing together! 🚀🌎
