@@ -8,7 +8,7 @@ I'm a passionate learner diving into the world of Human-Computer Interaction (HC
 🔹 Currently Learning: Python, JavaScript, React, and Data Structures & Algorithms
 
 
-🔹 Interested In: Usability Testing, Interactive Systems, and AI in HCI
+🔹 Interested In: AI, Usability Testing, Interactive Systems, and HCI
 
 
 🔹 Looking For: Collaborations on open-source projects, mentorship, and tech interview prep
@@ -16,7 +16,7 @@ I'm a passionate learner diving into the world of Human-Computer Interaction (HC
 
 🛠️ Skills
 Languages: Python, JavaScript (beginner)
-Tools & Frameworks: React, Figma, Git, HTML/CSS
+Tools: Figma, Git, HTML/CSS
 Other Interests: UX Research, Prototyping, AI for Accessibility
 
 
