@@ -15,7 +15,6 @@
 Language: Python, HTML/CSS
 Tools: Figma, Git
 
-Other Interests: UX Research, Prototyping, AI for Accessibility
-
+Other Interests: 3D printing, Research, Prototyping, AI for Accessibility
 
 Let's build! 🚀🌎
