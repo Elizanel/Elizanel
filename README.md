@@ -14,6 +14,7 @@
 🛠️ Skills
 Language: Python, HTML/CSS
 Tools: Figma, Git
+
 Other Interests: UX Research, Prototyping, AI for Accessibility
 
 
