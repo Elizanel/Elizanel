@@ -6,7 +6,7 @@
 
 🔹Developing Expertise In: Python, algorithmic problem solving, and high-performance programming — with a particular interest in how intelligent systems and human-computer interaction can support real-time decision-making. 
 
-🎯 Interested In: Artificial Intelligence, Human-Computer Interaction (HCI), Interactive Systems, and the application of intelligent technologies to real-time decision-making in complex, data-rich environments like finance. Passionate about building tools that are both efficient and intuitive.
+🎯 Interested In: Artificial Intelligence, Human-Computer Interaction (HCI), Interactive Systems, and the application of intelligent technologies to real-time decision-making in complex, data-rich environments. Passionate about building tools that are both efficient and intuitive.
 
 🔹 Looking For: Collaborations on open-source projects, mentorship, and tech interview prep
 
